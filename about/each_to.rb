@@ -2,5 +2,10 @@
 describe "Loops" do
 
 	it "each iterates through array"
+		colours = ["red", "flame red", "wine red", "bordeaux"]
+    	colours.each do |colour|
+    	    puts '#{colour} is one of my favourite colours!"
+    	end
+
 	
 end
