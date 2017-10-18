@@ -2,6 +2,9 @@
 
 ... add git commands here
 
+## Clone repository
+    git clone address (https://github.com/htw-imi-wtat2/rubylearning.git)
+
 ## Pushing your changes to github
 
 rebase instead of just pull to update:
