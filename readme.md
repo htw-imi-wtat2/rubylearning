@@ -60,6 +60,3 @@ Please make sure that all examples pass before pushing to github - otherwise Tra
 * A neat little tutorial on a [command line app](http://neurogami.com/content/neurogami-10_minutes_to_your_first_Ruby_app/)
 * (old Version of)[Pickaxe Book](http://ruby-doc.com/docs/ProgrammingRuby/)
 
-Hi!!
-
-Test_Änderung_Franzi_18_10_17_15:05

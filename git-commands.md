@@ -2,8 +2,35 @@
 
 ... add git commands here
 
-## Clone repository
-    git clone address (https://github.com/htw-imi-wtat2/rubylearning.git)
+<<<<<<< HEAD
+## init repository
+    git init
+=======
+_________________________________________
+git add *
+--> adds all files to local system
+_________________________________________
+git clone username@host:/path/to/repository
+--> check out a repository
+_________________________________________
+git commit -m "Commit message"
+--> comment your changes, you should always do this
+_________________________________________
+git push origin master
+--> send you changes to git
+_________________________________________
+git merge
+--> puts changes from different users together
+__________________________________________
+git pull
+--> get changes
+__________________________________________
+git fetch origin
+
+git reset --hard origin/master
+--> use this to get the latest version of the project on git again
+
+>>>>>>> a212e29e8661cbf9ebdc4336b17ca82e59ff1b0f
 
 ## Pushing your changes to github
 
